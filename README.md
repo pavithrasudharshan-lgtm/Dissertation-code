@@ -1,1 +1,1 @@
-# Dissertation-code
+The dataset used (HAGIS, post-Covid study) is available via the UK Data Service website ([https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=9130#]) along with full documentation and codebook.
